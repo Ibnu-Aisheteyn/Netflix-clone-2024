@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import requests from "../utils/requests.jsx";
-import axios from "../utils/axios.jsx";
+import requests from "../../utils/requests.jsx";
+import axios from "../../utils/axios.jsx";
 import "./Banner.css";
 const Banner = () => {
   let truncate = (text, maxLength) => {

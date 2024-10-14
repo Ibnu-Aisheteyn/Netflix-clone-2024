@@ -1,6 +1,7 @@
 import Header from "../../Components/Header/Header";
 import Footer from "../../Components/Footer/Footer";
-import Banner from "../../Banner/Banner";
+import Banner from "../../Components/Banner/Banner";
+
 function Home() {
   return (
     <>
