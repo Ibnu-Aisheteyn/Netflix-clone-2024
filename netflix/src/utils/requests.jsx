@@ -11,3 +11,4 @@ let requests = {
   fetchTvShows: `/tv/popular?api_key=${API_KEY}&language=en-US&page=1`,
 };
 export default requests;
+//api_key=be7af80ee05e64f28c36ee8ce9bb1bc6
